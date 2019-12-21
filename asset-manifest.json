@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sulibb/static/css/main.dcbacf4a.chunk.css",
+    "main.js": "/sulibb/static/js/main.1229cd0b.chunk.js",
+    "main.js.map": "/sulibb/static/js/main.1229cd0b.chunk.js.map",
+    "runtime-main.js": "/sulibb/static/js/runtime-main.53228499.js",
+    "runtime-main.js.map": "/sulibb/static/js/runtime-main.53228499.js.map",
+    "static/css/2.374fe853.chunk.css": "/sulibb/static/css/2.374fe853.chunk.css",
+    "static/js/2.e9132278.chunk.js": "/sulibb/static/js/2.e9132278.chunk.js",
+    "static/js/2.e9132278.chunk.js.map": "/sulibb/static/js/2.e9132278.chunk.js.map",
+    "index.html": "/sulibb/index.html",
+    "precache-manifest.a0d42f2eacd51d511bfe831a23d8b05a.js": "/sulibb/precache-manifest.a0d42f2eacd51d511bfe831a23d8b05a.js",
+    "service-worker.js": "/sulibb/service-worker.js",
+    "static/css/2.374fe853.chunk.css.map": "/sulibb/static/css/2.374fe853.chunk.css.map",
+    "static/css/main.dcbacf4a.chunk.css.map": "/sulibb/static/css/main.dcbacf4a.chunk.css.map",
+    "static/media/App.css": "/sulibb/static/media/Roboto-Medium.58aef543.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53228499.js",
+    "static/css/2.374fe853.chunk.css",
+    "static/js/2.e9132278.chunk.js",
+    "static/css/main.dcbacf4a.chunk.css",
+    "static/js/main.1229cd0b.chunk.js"
+  ]
+}
